@@ -1166,3 +1166,7 @@
 990068	990542	1654588711055278987	test/test_radio_connection_serial	230600e88eb5dc43
 952012	994223	1654588714691304959	test/CMakeFiles/test_radio_connection_udp.dir/radio/connection/udp.cc.o	99a0fcba4ef882ed
 994226	994637	1654588715151308252	test/test_radio_connection_udp	73a7df1890110d49
+61	25612	1654758511378376321	app/standalone-gui/CMakeFiles/standalone-gui.dir/main.cc.o	22c1705d6ace8598
+25613	26783	1654758511378376321	app/standalone-gui/standalone-gui	cf567faf28bce758
+25613	26783	1654758511378376321	standalone-gui	cf567faf28bce758
+25613	26783	1654758511378376321	app/standalone-gui/config	cf567faf28bce758
